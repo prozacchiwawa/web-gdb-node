@@ -1,0 +1,7 @@
+{
+  "name": "web-gdb-node",
+  "main": "src/runner.js",
+  "license": "GPL-2.0",
+  "author": "art yerkes <art.yerkes@gmail.com>",
+  "dependencies": { }
+}
